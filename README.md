@@ -1,2 +1,2 @@
 # dotfiles
-Dotfiles
+Dotfiles for my development environment
